@@ -12,7 +12,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "put your session ID here in ",
+      "description": "Prince~scl/fi/2515o81n1qe1h9qabz6da/m0ERTiMTTK.json?rlkey=xnahw125nv3zs34arwtvhlo4p&dl=0",
       "required": true,
       "value": ""
     },
@@ -22,7 +22,7 @@
       "value": "PRINCE-BOT"
     },
     "OWNER_NUMBER": {
-      "description": "Prince~scl/fi/2515o81n1qe1h9qabz6da/m0ERTiMTTK.json?rlkey=xnahw125nv3zs34arwtvhlo4p&dl=0",
+      "description": "saleem",
       "required": true,
       "value": "639129985130,DEVELOPER"
     },
